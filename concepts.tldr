@@ -124,11 +124,172 @@
 			"typeName": "shape"
 		},
 		{
+			"x": -200.34901023612343,
+			"y": 63.059342490163544,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:mcEDM5O4SNBuCl_XuroDd",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 660.7125244140625,
+				"text": "- template was made -> conatains all the files and \ntheir directories, logging was implemented in this pa\nrticular file.",
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a49iH",
+			"typeName": "shape"
+		},
+		{
+			"x": -197.97237031724706,
+			"y": 200.62315504413382,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:OVJ2wJr-E24ZI_sJBETr8",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 696.4500122070312,
+				"text": "- -e . -> this would install my folders as local packages",
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a50He",
+			"typeName": "shape"
+		},
+		{
+			"x": -178.59054941464186,
+			"y": 235.51044252692708,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:dJyMSrDpQdiD2gjUTU30c",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 465.625,
+				"text": "then i can import them in other files.",
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a6A9r",
+			"typeName": "shape"
+		},
+		{
+			"x": -197.97237031724706,
+			"y": 283.64196936411525,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:sBd-anP8E6DHum29oHwm4",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 672.9625244140625,
+				"text": "- it will try to find constructor file __init__.py\nand in whichever folder it finds this file, it wll con\nvert that into local package with the help of setup.py",
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a77kp",
+			"typeName": "shape"
+		},
+		{
+			"x": -197.16477632883704,
+			"y": 394.45120861717055,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:yKyI1GHSYKWEfUdso466C",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 637.4375,
+				"text": "- we coded setup.py file to download src folder as \na local package",
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a84C8",
+			"typeName": "shape"
+		},
+		{
+			"x": -193.60548338004065,
+			"y": 462.078148031128,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:z0-jr32uIDWOQqgPwboyw",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 16,
+				"text": "-",
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "a93ZB",
+			"typeName": "shape"
+		},
+		{
+			"x": -175.80891680328796,
+			"y": 460.2985185288583,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:eANOYZzbhwRAQPjjsnBM7",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 371.0874938964844,
+				"text": "pip install -r requirements.txt",
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aAA1W",
+			"typeName": "shape"
+		},
+		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": 124.86697522595233,
-			"y": 131.75486903435956,
-			"lastActivityTimestamp": 1734243124217,
+			"x": -173.44371150074628,
+			"y": 664.5107351946574,
+			"lastActivityTimestamp": 1734633388994,
 			"meta": {}
 		},
 		{
@@ -177,12 +338,12 @@
 			"typeName": "instance"
 		},
 		{
-			"editingShapeId": "shape:mcEDM5O4SNBuCl_XuroDd",
+			"editingShapeId": "shape:9Hd8QkbId_ZgCztppxhjH",
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:mcEDM5O4SNBuCl_XuroDd"
+				"shape:9Hd8QkbId_ZgCztppxhjH"
 			],
-			"hoveredShapeId": "shape:mcEDM5O4SNBuCl_XuroDd",
+			"hoveredShapeId": "shape:9Hd8QkbId_ZgCztppxhjH",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -192,34 +353,103 @@
 			"typeName": "instance_page_state"
 		},
 		{
-			"x": 349.5130502313495,
-			"y": 343.2653844783881,
-			"z": 0.6248155023195909,
+			"x": 331.0212000080893,
+			"y": -163.8099687063042,
+			"z": 0.5863781838455505,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
 		},
 		{
-			"x": -200.34901023612343,
-			"y": 63.059342490163544,
+			"x": -192.54400761816154,
+			"y": 506.4227869596532,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
 			"meta": {},
-			"id": "shape:mcEDM5O4SNBuCl_XuroDd",
+			"id": "shape:ZoAyKqVMDOteUxoZ86Eku",
 			"type": "text",
 			"props": {
 				"color": "black",
 				"size": "m",
-				"w": 660.7125244140625,
-				"text": "- template was made -> conatains all the files and \ntheir directories, logging was implemented in this pa\nrticular file.",
+				"w": 582.2374877929688,
+				"text": "- -e . installs python package in editable form,",
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
 				"scale": 1
 			},
 			"parentId": "page:page",
-			"index": "a49iH",
+			"index": "aB3Je",
+			"typeName": "shape"
+		},
+		{
+			"x": 399.56531514323683,
+			"y": 503.6941620762673,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:cnlff4qbYobp-c1NgHu0G",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 215.4250030517578,
+				"text": ". here represents",
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aC44X",
+			"typeName": "shape"
+		},
+		{
+			"x": -180.2652476871157,
+			"y": 544.6233791944837,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:JeDt7481h1d3xVwX5rtzl",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 794.1625366210938,
+				"text": "current directory which should contain\nsetup.py file which tells how the package should be installed.\n- any changes in that package would not require to reinstall it.",
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aDAs3",
+			"typeName": "shape"
+		},
+		{
+			"x": -173.44371150074628,
+			"y": 648.310734431718,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:9Hd8QkbId_ZgCztppxhjH",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 1564.3125,
+				"text": "- when i first installed all these packages then copies of all the files actually stored in local cached folder\nnow pip is using thode cached files to install these packages rather than downloading them fro internet for fast processing.",
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aE5b0",
 			"typeName": "shape"
 		}
 	]

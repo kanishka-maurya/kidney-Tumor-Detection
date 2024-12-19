@@ -40,4 +40,4 @@ for file in list_of_files:
         info(f"Creating file {filename} in the directory: {dirname}")
 
     else:
-        info(info(f"{filename} already exists"))
+        info(f"{filename} already exists")

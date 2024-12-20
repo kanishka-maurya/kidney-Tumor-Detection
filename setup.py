@@ -1,5 +1,6 @@
 import setuptools
 
+# reading README.md file
 with open("README.md","r",encoding="utf-8") as f:
     long_description = f.read()
 
@@ -10,7 +11,7 @@ AUTHOR_USER_NAME = "kanishka-maurya"
 SRC_REPO = "cnnClassifier"
 AUTHOR_EMAIL = "kanishkamauryaofficial@gmail.com"
 
-
+# for creating my project directories as modules 
 setuptools.setup(
     name = SRC_REPO,
     version = __version__,

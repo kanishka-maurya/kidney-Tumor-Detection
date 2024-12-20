@@ -7,6 +7,7 @@ basicConfig(level=INFO, format='[%(asctime)s]: %(message)s:')
 
 project_name = "cnnClassifier"
 
+# project structure
 list_of_files = [
     ".github/workflows/.gitkeep",
     f"src/{project_name}/__init__.py",
@@ -26,6 +27,7 @@ list_of_files = [
     "templates/index.html"
 ]
 
+# creating directories and their respective files
 for file in list_of_files:
     filepath = Path(file)
     dirname, filename = os.path.split(filepath)

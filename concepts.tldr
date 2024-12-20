@@ -285,82 +285,6 @@
 			"typeName": "shape"
 		},
 		{
-			"id": "pointer:pointer",
-			"typeName": "pointer",
-			"x": -173.44371150074628,
-			"y": 664.5107351946574,
-			"lastActivityTimestamp": 1734633388994,
-			"meta": {}
-		},
-		{
-			"followingUserId": null,
-			"opacityForNextShape": 1,
-			"stylesForNextShape": {},
-			"brush": null,
-			"scribbles": [],
-			"cursor": {
-				"type": "default",
-				"rotation": 0
-			},
-			"isFocusMode": false,
-			"exportBackground": true,
-			"isDebugMode": false,
-			"isToolLocked": false,
-			"screenBounds": {
-				"x": 0,
-				"y": 0,
-				"w": 1318.4000244140625,
-				"h": 443.20001220703125
-			},
-			"insets": [
-				false,
-				false,
-				true,
-				false
-			],
-			"zoomBrush": null,
-			"isGridMode": false,
-			"isPenMode": false,
-			"chatMessage": "",
-			"isChatting": false,
-			"highlightedUserIds": [],
-			"isFocused": true,
-			"devicePixelRatio": 1.25,
-			"isCoarsePointer": false,
-			"isHoveringCanvas": true,
-			"openMenus": [],
-			"isChangingStyle": false,
-			"isReadonly": false,
-			"meta": {},
-			"duplicateProps": null,
-			"id": "instance:instance",
-			"currentPageId": "page:page",
-			"typeName": "instance"
-		},
-		{
-			"editingShapeId": "shape:9Hd8QkbId_ZgCztppxhjH",
-			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:9Hd8QkbId_ZgCztppxhjH"
-			],
-			"hoveredShapeId": "shape:9Hd8QkbId_ZgCztppxhjH",
-			"erasingShapeIds": [],
-			"hintingShapeIds": [],
-			"focusedGroupId": null,
-			"meta": {},
-			"id": "instance_page_state:page:page",
-			"pageId": "page:page",
-			"typeName": "instance_page_state"
-		},
-		{
-			"x": 331.0212000080893,
-			"y": -163.8099687063042,
-			"z": 0.5863781838455505,
-			"meta": {},
-			"id": "camera:page:page",
-			"typeName": "camera"
-		},
-		{
 			"x": -192.54400761816154,
 			"y": 506.4227869596532,
 			"rotation": 0,
@@ -427,6 +351,174 @@
 			},
 			"parentId": "page:page",
 			"index": "aDAs3",
+			"typeName": "shape"
+		},
+		{
+			"id": "pointer:pointer",
+			"typeName": "pointer",
+			"x": 43.40540207006666,
+			"y": 691.7425744668012,
+			"lastActivityTimestamp": 1734704150450,
+			"meta": {}
+		},
+		{
+			"followingUserId": null,
+			"opacityForNextShape": 1,
+			"stylesForNextShape": {},
+			"brush": null,
+			"scribbles": [],
+			"cursor": {
+				"type": "cross",
+				"rotation": 0
+			},
+			"isFocusMode": false,
+			"exportBackground": true,
+			"isDebugMode": false,
+			"isToolLocked": false,
+			"screenBounds": {
+				"x": 0,
+				"y": 0,
+				"w": 1318.4000244140625,
+				"h": 443.20001220703125
+			},
+			"insets": [
+				false,
+				false,
+				true,
+				false
+			],
+			"zoomBrush": null,
+			"isGridMode": false,
+			"isPenMode": false,
+			"chatMessage": "",
+			"isChatting": false,
+			"highlightedUserIds": [],
+			"isFocused": true,
+			"devicePixelRatio": 1.25,
+			"isCoarsePointer": false,
+			"isHoveringCanvas": true,
+			"openMenus": [],
+			"isChangingStyle": false,
+			"isReadonly": false,
+			"meta": {},
+			"duplicateProps": null,
+			"id": "instance:instance",
+			"currentPageId": "page:page",
+			"typeName": "instance"
+		},
+		{
+			"editingShapeId": null,
+			"croppingShapeId": null,
+			"selectedShapeIds": [
+				"shape:AwyY8h9ZQImBT9d5X4wbO"
+			],
+			"hoveredShapeId": null,
+			"erasingShapeIds": [],
+			"hintingShapeIds": [],
+			"focusedGroupId": null,
+			"meta": {},
+			"id": "instance_page_state:page:page",
+			"pageId": "page:page",
+			"typeName": "instance_page_state"
+		},
+		{
+			"x": 1161.2757315810554,
+			"y": -379.0921663345823,
+			"z": 0.40940295189337866,
+			"meta": {},
+			"id": "camera:page:page",
+			"typeName": "camera"
+		},
+		{
+			"x": -182.72508653206842,
+			"y": 716.5830243903894,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:78ZBCwhn-RXN3moWSs2Z5",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 1464.3125,
+				"text": "- when src is first imported and executed then a cache file is generated inside the cnnClassifier \nso that when the next time it is imported then python can use that cache file in cached folder in bytecode for faster",
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aF9kR",
+			"typeName": "shape"
+		},
+		{
+			"x": 1296.6347484708713,
+			"y": 745.4357963550772,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ATh9SM0La4UGjQse9Hj1g",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 125.80000305175781,
+				"text": "execution ",
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aG1ar",
+			"typeName": "shape"
+		},
+		{
+			"x": -174.85617146412733,
+			"y": 774.2885683197649,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:Ou0u6-mXqmNP-S_jN454E",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 746.875,
+				"text": "without again parsing and compiling the source code inside.",
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aH9wW",
+			"typeName": "shape"
+		},
+		{
+			"x": 96.16509880904596,
+			"y": 663.8181945801534,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:AwyY8h9ZQImBT9d5X4wbO",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 20,
+				"text": "",
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1
+			},
+			"parentId": "page:page",
+			"index": "aI7kS",
 			"typeName": "shape"
 		},
 		{
